@@ -1,0 +1,5 @@
+Pandas homework – Trends
+
+1. The male players in this game vastly outnumber the female players.
+2. The average purchase per person, however, was $0.40 higher for females than it was for males.
+3. Nearly half of the players are in their early 20s (20-24 age range).
